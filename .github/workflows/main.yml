@@ -17,7 +17,7 @@ jobs:
       uses: azure/CLI@v1
       with:
         inlineScript: |
-            az storage blob upload-batch --account-name illinoisstore --auth-mode key -d 'bronze-bobblehead-blob' -s . --pattern [!.git]
+            az storage blob upload-batch --account-name illinoisstore --auth-mode key -d 'bronze-bobblehead-blob' -s assets
     - name: Purge CDN endpoint
       uses: azure/CLI@v1
       with:

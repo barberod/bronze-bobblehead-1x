@@ -1,5 +1,5 @@
-{
-    "202202": {
+[
+    {
         "id": "202202",
         "termCode": 202202,
         "name": "Spring 2022",
@@ -11,7 +11,7 @@
         "calendarFilter": true,
         "searchFilter": true
     },
-    "202108": {
+    {
         "id": "202108",
         "termCode": 202108,
         "name": "Fall 2021",
@@ -23,7 +23,7 @@
         "calendarFilter": true,
         "searchFilter": true
     },
-    "202105": {
+    {
         "id": "202105",
         "termCode": 202105,
         "name": "Summer 2021",
@@ -35,7 +35,7 @@
         "calendarFilter": false,
         "searchFilter": true
     },
-    "202105A": {
+    {
         "id": "202105A",
         "termCode": 202105,
         "name": "All Summer Sessions 2021",
@@ -47,7 +47,7 @@
         "calendarFilter": true,
         "searchFilter": false
     },
-    "202105M": {
+    {
         "id": "202105M",
         "termCode": 202105,
         "name": "Maymester 2021",
@@ -59,7 +59,7 @@
         "calendarFilter": true,
         "searchFilter": false
     },
-    "202105E": {
+    {
         "id": "202105E",
         "termCode": 202105,
         "name": "Early Short Summer 2021",
@@ -71,7 +71,7 @@
         "calendarFilter": true,
         "searchFilter": false
     },
-    "202105F": {
+    {
         "id": "202105F",
         "termCode": 202105,
         "name": "Full Summer 2021",
@@ -83,7 +83,7 @@
         "calendarFilter": true,
         "searchFilter": false
     },
-    "202105L": {
+    {
         "id": "202105L",
         "termCode": 202105,
         "name": "Late Short Summer 2021",
@@ -95,4 +95,4 @@
         "calendarFilter": true,
         "searchFilter": false
     }
-}
+]

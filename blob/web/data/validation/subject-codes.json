@@ -1,0 +1,20 @@
+[
+    {
+        "subjectCode": "ACCT",
+        "name": "Accounting",
+        "visibile": true,
+        "searchFilter": true
+    },
+    {
+        "subjectCode": "AE",
+        "name": "Aerospace Engineering",
+        "visibile": true,
+        "searchFilter": true
+    },
+    {
+        "subjectCode": "AS",
+        "name": "Air Force Aerospace Studies",
+        "visibile": true,
+        "searchFilter": true
+    }
+]
